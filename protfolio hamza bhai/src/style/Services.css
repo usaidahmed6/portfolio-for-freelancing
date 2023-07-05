@@ -1,0 +1,49 @@
+.ServicesContainer {
+    padding-top: 80px;
+    background-color: #fff;
+   
+}
+.Heading{
+    text-align: center;
+}
+h2 {
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 900;
+    
+}
+.service{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.myServicesCards {
+    background-color: rgb(244, 247, 255);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    width: 20em;
+    box-shadow: 6px 5px 35px 2px #b9b9b9;
+    
+    padding-right: 40px;
+    border-radius: 20px 0 20px 0;
+    margin-bottom: 120px;
+    margin: 30px 60px;
+}
+
+.serviceIcon{
+    font-size: 40px;
+    color: #fee5b5;
+}
+.color-light-grey{
+    color: #3e4455;
+    text-align: initial;
+    padding: 10px 5px;
+
+}
+.text-heading{
+    display: block;
+    margin: 24px 10px;
+    font-size: 24px;
+    font-weight: 700;
+}

@@ -1,0 +1,35 @@
+.justContainer {
+    background-color: #fff;
+    text-align: center;
+    margin-top: 100px;
+    height: 400px;
+}
+
+.have-heading {
+    color: #3e4455;
+    font-weight: 400 !important;
+    font-size: 34px ;
+}
+
+.JustSay {
+    font-size: 100px;
+    font-weight: 300;
+}
+
+.btn-danger {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    justify-content: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ff023e;
+    font-size: 18px;
+    color: #fff !important;
+    background-color: #ff023e;
+    line-height: 18px;
+    margin-top: 40px;
+    transition: 299ms;
+}

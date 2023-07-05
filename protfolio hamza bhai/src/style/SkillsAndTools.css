@@ -1,0 +1,113 @@
+.skillContainer{
+    background-color: #edf1fd;
+}
+
+.skill-area.section-padding {
+    padding-bottom: 35px;
+}
+
+.section-padding {
+    padding: 150px 0;
+}
+
+.skill_title_wrap {
+    position: relative;
+}
+
+h2.skill-heading {
+    position: absolute;
+    padding-left: 50px;
+    z-index: 1;
+    top: 7%;
+    left: -8%;
+    /* -webkit-transform: rotate(270deg); */
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+    font-size: 40px;
+    margin: 80px 5px;
+}
+
+.homepage-2 h2 {
+    color: #3e4455;
+    font-weight: 700;
+}
+
+.kc_column_inner {
+    min-height: 1px;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+}
+
+.kc_col-sm-6 {
+    width: 50%;
+}
+
+@media only screen and (min-width: 1000px) {
+    .col-md-offset-2 {
+        margin-left: 16.66666667%;
+    }
+}
+
+.homepage-2 .skillbar {
+    background: #dbe1f1 !important;
+}
+
+.skillbar {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 115px;
+    width: 100%;
+    background: #dbe1f1;
+    height: 7px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -webkit-transition: 0.4s linear;
+    -moz-transition: 0.1s linear;
+    -ms-transition: 0.1s linear;
+    -o-transition: 0.1s linear;
+    transition: 0.1s linear;
+    -webkit-transition-property: width, background-color;
+    -moz-transition-property: width, background-color;
+    -ms-transition-property: width, background-color;
+    -o-transition-property: width, background-color;
+    transition-property: width, background-color;
+}
+
+.skillbar-title {
+    position: absolute;
+    top: -30px;
+    left: 0;
+   
+}
+
+.skillbar-bar {
+    height: 7px;
+    width: 0px;
+    background: red;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    -webkit-border-radius: 10px;
+   
+}
+
+.skill-bar-percent {
+    position: absolute;
+    right: 50px;
+    top: -30px;
+    font-size: 14px;
+    height: 35px;
+    color: 575757;
+    font-weight: 500;
+    letter-spacing: 2px;
+   
+}

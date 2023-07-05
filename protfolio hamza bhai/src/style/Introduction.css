@@ -1,0 +1,96 @@
+.imaSoft-con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: -19px !important;
+    width: 86%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px 2px #adadad;
+}
+.color-gray {
+    color: #595f70;
+    font-size: 20px;
+}
+.softwareImage{
+    margin: 20px;
+    height: 65px; 
+}
+.mainSoft{
+    height: 200px;
+    background-color: 3e4455;
+    display: inline-block;
+}
+
+.image-rotate{
+    height: 38em;
+}
+.im{
+    color: #3e4455;
+    font-size: 63px;
+    line-height: 90px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-weight: 700;   
+}
+.name {
+    color: #ff023e;
+    font-size: 63px;
+    line-height: 90px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.size {
+    font-size: 18px;
+}
+
+.social-icons {
+    list-style: none;
+    display: flex;
+}
+
+.usre-image-container {
+    width: 30%;
+
+}
+
+.userImage {
+    vertical-align: middle;
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 0px 100px 0px 100px;
+
+}
+.circleDiv{
+    background-color: #edf1fd;
+}
+.text-gray{
+    color: #595f70;
+}
+.introContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.left {
+    margin: 20px;
+}
+
+
+.card{
+    border: 1px solid white;
+    width: 50%;
+}
+.responsive-section{
+    width: 100% !important;
+}
+.dis-felx-resp{
+    display: flex;
+
+}

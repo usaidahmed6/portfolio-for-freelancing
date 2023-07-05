@@ -1,0 +1,33 @@
+.logo {
+    width: 100px;
+    margin: 5px 90px;
+}
+
+.navbar-expand-lg {
+    font-size: 16px;
+    /* box-shadow: 2px 2px 2px 2px #c9c9c95e; */
+}
+
+a {
+    color: #3e4455 !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff023e !important;
+    text-decoration: none;
+}
+
+button.navbar-toggler.collapsed {
+    background-color: grey;
+}
+
+.Header-Menu {
+    background-color: transparent;
+}
+
+.menu-Item {
+    margin-top: 5px;
+
+
+}
